@@ -21,8 +21,10 @@ public class SpringDataESIndexTest {
     @Test
     public void createIndex(){
         //创建索引，系统初始化会自动创建索引
-        System.out.println("创建索引");
+         System.out.println("创建索引");
     }
+
+
 
     @Test
     public void deleteIndex(){
